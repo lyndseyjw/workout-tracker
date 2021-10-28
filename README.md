@@ -2,7 +2,7 @@
 
 ![License: MIT](https://img.shields.io/badge/License-MIT-blueviolet.svg)
 
-## A MongoDB Workout Tracker with Dynamic UI
+## An MVC-Structured Full Stack Web Application utilizing MongoDB and a dynamic UI so users can track their workout goals
 
 ## User Story
 
